@@ -1,5 +1,5 @@
 <script setup>
-const theme = ref('dark')
+const theme = ref('light')
 const onClick = () => {
   theme.value = theme.value === 'light' ? 'dark' : 'light'
 }
