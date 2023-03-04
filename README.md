@@ -1,3 +1,4 @@
+![blog](https://user-images.githubusercontent.com/62831955/222870433-a0beae86-c983-4412-8f40-66243269d54a.png)
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
